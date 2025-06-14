@@ -1,0 +1,31 @@
+{
+    "accounts": [
+        {
+            "email": "salimayacine10@gmail.com",
+            "id": "91089439",
+            "password": "lounes100",
+            "real": true
+        },
+        {
+            "email": "walidabbas005@gmail.com",
+            "id": "100924139",
+            "password": "lounes100",
+            "real": true
+        }
+    ],
+    "telegram_bot_token": "8157911580:AAGJd8D40us3BZUbIVSw_Dih9-cKHuhquxk",
+    "telegram_bot_username": "@Aiyacine_bot",
+    "dashboard_password": "lounes100",
+    "license_key": "abbas2025",
+    "auto_trade_enabled": true,
+    "manual_trade_enabled": true,
+    "min_trade_split": 10,
+    "trade_strategy": [
+        "WMA",
+        "Stochastic",
+        "Williams %R",
+        "Fractal",
+        "ZigZag",
+        "Doji Filtering"
+    ]
+}
